@@ -57,9 +57,14 @@ nav img {
 .showcase-text {
     flex: 1;
     color: white;
-    padding: 10rem;
+    padding-bottom: 10rem;
 }
 
+.showcase-title {
+    font-size: 4rem;
+}
+
+/* Bubbles */
 .circle {
     position: absolute;
 }
