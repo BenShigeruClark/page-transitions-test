@@ -61,7 +61,31 @@ nav img {
 }
 
 .showcase-title {
-    font-size: 4rem;
+    font-size: 2rem;
+}
+
+.showcase-button {
+    padding: 0.5rem 2rem;
+    border: none;
+    color: black;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+    background: #ffa2a2;
+}
+
+.showcase-subtitle {
+    font-size: 1rem;
+    padding: 3rem 0rem;
+    font-weight: 400;
+}
+
+.showcase-arrow {
+    position: absolute;
+    right: 15%;
+    bottom: 10%;
+    transform: scale(0.6);
 }
 
 /* Bubbles */
