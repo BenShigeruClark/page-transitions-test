@@ -72,7 +72,8 @@ nav img {
     font-family: 'Poppins', sans-serif;
     border-radius: 0.5rem;
     font-size: 0.8rem;
-    background: #ffa2a2;
+    background: #ffffff;
+    opacity: 90%;
 }
 
 .showcase-subtitle {
